@@ -1,7 +1,7 @@
 name: Bellefonte MTB Club
 favicon: null
 layout_spectrum: 0.49031
-typography_spectrum: 0.8554119938053191
+typography_spectrum: 0.51789
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#618138'
+    - '#000500'
+    - '#f6faf5'
+    - '#adcb75'
+    - '#0f589e'
   brandStrength: 0.16203849599696696
   lightness: 0.6917950809001923
   saturation: 0.9771706310566515

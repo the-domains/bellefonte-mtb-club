@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Sponsorship Form:'
-datePublished: '2016-07-06T14:15:43.902Z'
-dateModified: '2016-07-06T14:06:34.959Z'
+datePublished: '2016-07-06T14:16:15.915Z'
+dateModified: '2016-07-06T14:15:51.313Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-06-sponsorship-and-donation.md

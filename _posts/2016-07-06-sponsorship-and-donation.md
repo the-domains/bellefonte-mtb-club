@@ -4,21 +4,23 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Sponsorship Form
-datePublished: '2016-07-06T14:01:42.682Z'
-dateModified: '2016-07-06T14:01:25.843Z'
+description: 'Sponsorship Form:'
+datePublished: '2016-07-06T14:04:04.397Z'
+dateModified: '2016-07-06T14:03:57.876Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-06-sponsorship-and-donation.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: sponsorship-and-donation/index.html
 _type: Article
 
 ---
-Sponsorship Form
+Sponsorship Form:
 
 https://drive.google.com/open?id=0ByKlGsitdBDOOTNoMmtNOFRLRGc
 
-Donation Page
+Donation Page:
+
+https://www.gofundme.com/2bzkhxw

@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Sponsorship Form:'
-datePublished: '2016-07-06T14:16:15.915Z'
-dateModified: '2016-07-06T14:15:51.313Z'
+datePublished: '2016-07-06T14:18:46.763Z'
+dateModified: '2016-07-06T14:17:41.792Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-06-sponsorship-and-donation.md
@@ -17,10 +17,8 @@ url: sponsorship-and-donation/index.html
 _type: Article
 
 ---
-Sponsorship Form:
-
-https://drive.google.com/open?id=0ByKlGsitdBDOOTNoMmtNOFRLRGc
+[Sponsorship Form:][0]
 
 Donation Page:
 
-https://www.gofundme.com/2bzkhxw
+[0]: null

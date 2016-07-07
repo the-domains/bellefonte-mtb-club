@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Parent Info
-datePublished: '2016-07-06T13:54:03.541Z'
-dateModified: '2016-07-06T13:53:56.136Z'
+datePublished: '2016-07-07T16:40:12.730Z'
+dateModified: '2016-07-06T14:02:30.146Z'
 title: ''
+author: []
+sourcePath: _posts/2016-07-06-parent-info.md
 authors: []
 publisher: null
-author: []
-starred: false
-sourcePath: _posts/2016-07-06-parent-info.md
+starred: true
 url: parent-info/index.html
 _type: Article
 

@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Parent Info
-datePublished: '2016-07-07T16:40:12.730Z'
-dateModified: '2016-07-06T14:02:30.146Z'
+datePublished: '2016-07-07T16:41:32.591Z'
+dateModified: '2016-07-07T16:40:20.390Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-06-parent-info.md
